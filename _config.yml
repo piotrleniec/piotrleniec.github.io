@@ -19,6 +19,8 @@ exclude:
   - Gruntfile.js
   - package.json
   - README.md
+  - Gemfile
+  - Gemfile.lock
 gems:
   - jekyll-paginate
   - jekyll-feed
