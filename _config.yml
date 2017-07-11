@@ -17,3 +17,4 @@ exclude:
   - Gemfile.lock
 gems:
   - jekyll-feed
+  - jekyll-sitemap
