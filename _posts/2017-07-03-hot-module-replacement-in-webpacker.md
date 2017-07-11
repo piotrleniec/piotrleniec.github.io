@@ -10,6 +10,7 @@ description: |
   frontends without much configuration hassle. The initial setup for React
   works quite well, but it can be even better. We can use hot module
   replacement.
+last_modified_at: 2017-07-11 22:14:16 +0200
 ---
 
 Rails 5.1 brings us a great new feature - Webpacker. It seamlessly integrates
