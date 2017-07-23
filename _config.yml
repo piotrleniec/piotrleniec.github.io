@@ -10,7 +10,7 @@ facebook_username:
 email_username: leniec.piotr@gmail.com
 markdown: kramdown
 highlighter: rouge
-permalink: none
+permalink: /:categories/:title
 paginate: 5
 exclude:
   - Gemfile
