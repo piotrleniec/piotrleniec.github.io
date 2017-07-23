@@ -284,4 +284,5 @@ As you have probably noticed, I didn't write a single word about classes and
 arrow functions. These two features are much more complicated than the listed
 one and I'd rather write more detailed posts about them to cover all the
 functionalities. If you'd like to try these features by yourself, you can clone
-my repository and play with it. Don't forget to leave a star. :)
+my [repository](https://github.com/piotrleniec/modern-javascript-syntax) and
+play with it. Don't forget to leave a star. :)
