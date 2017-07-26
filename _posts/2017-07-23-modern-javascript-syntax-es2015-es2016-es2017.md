@@ -4,13 +4,12 @@ title: Modern JavaScript syntax (ES2015, ES2016, ES2017)
 date: 2017-07-23 22:49:18 +0200
 categories: javascript
 description: |
-  Newest versions of ECMAScript has become quite popular, but I noticed that
+  The newest versions of ECMAScript has become quite popular, but I noticed that
   only a few know all the features it provides. In this post, I'm going to show
-  you the most important functionalities from ECMAScript. I'm skipping
-  generators and for of loops on purpose because they aren't handy in our daily
-  job.
+  you the most important functionalities from ECMAScript.
 last_modified_at: 2017-07-23 22:49:18 +0200
 header-img: assets/images/javascript-background.jpg
+image: assets/images/javascript-background.jpg
 ---
 
 The newest versions of ECMAScript has become quite popular, but I noticed that only
