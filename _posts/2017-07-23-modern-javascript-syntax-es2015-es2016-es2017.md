@@ -13,7 +13,7 @@ last_modified_at: 2017-07-23 22:49:18 +0200
 header-img: assets/images/javascript-background.jpg
 ---
 
-Newest versions of ECMAScript has become quite popular, but I noticed that only
+The newest versions of ECMAScript has become quite popular, but I noticed that only
 a few know all the features it provides. In this post, I'm going to show you
 the most important functionalities from ECMAScript. I'm skipping generators and
 for of loops on purpose because they aren't handy in our daily job.
