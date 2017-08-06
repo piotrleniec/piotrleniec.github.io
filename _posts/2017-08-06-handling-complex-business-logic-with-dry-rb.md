@@ -31,7 +31,9 @@ of operations like capturing payments, removing stocks and sending emails.
 
 It's surely not a simple CRUD like action so "the Rails way" might not be the
 best choice to build this solution. Putting everything in "fat models" is a
-violation of a [single responsibility principle](https://robots.thoughtbot.com/back-to-basics-solid#single-responsibility-principle).
+violation of [the single responsibility principle](https://www.youtube.com/watch?v=Gt0M_OHKhQE).
+
+![uncle bob approves](/assets/images/uncle-bob-approves.jpg)
 
 Are we doomed to an ugly code? Fortunately, no. We can extract validation logic
 to validators and move business logic to operations and compose them with
