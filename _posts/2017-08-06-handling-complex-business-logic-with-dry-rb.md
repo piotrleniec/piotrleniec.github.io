@@ -11,8 +11,8 @@ description: |
   the logic has multiple steps and each step can fail independently? Here comes
   dry-rb library with schema and transactions.
 last_modified_at: 2017-08-06 15:52:57 +0200
-header-img: assets/images/javascript-background.jpg
-image: assets/images/javascript-background.jpg
+header-img: assets/images/dry-rb-background.png
+image: assets/images/dry-rb-background-with-logo.jpg
 ---
 
 When I write Rails code, I tend to write as much business logic as possible in
